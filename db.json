@@ -1,0 +1,12 @@
+[
+        {
+            "id":"1",
+            "user":"Guille",
+            "desc":"Me ha gustado"
+        },
+        {
+            "id":"2",
+            "user":"Iñigo",
+            "desc":"No me ha gustado"
+        }
+]
